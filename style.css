@@ -1,0 +1,55 @@
+body{
+    background-color: #110000;  
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #FE1100;
+    text-align: center;
+}
+
+h2 {
+    color: #fe1100;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+
+img.profilePic {
+    width: 250px;
+}
+
+#css {
+    font-style: italic;
+    color: #BBFFCC;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+
+canvas {
+    border: 1px solid white;
+    background-color: black;
+}
